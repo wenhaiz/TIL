@@ -1,5 +1,5 @@
 # Add color value for both light mode and dark mode
-In SwiftUI, you can declare color values used for both light mode and dark mode by adding extension variables for `ColorScheme`,then use it in your views.
+In SwiftUI,I found a way to declare color values used for both light mode and dark mode by adding extension variables for `ColorScheme`.
 
 E.g.
 ```swift
